@@ -8,5 +8,5 @@ class Dinosaur:
         self.attack_power = atkpwr
         self.health= 100
     
-    def attack(self,robot):
+    def attack(self,dinosaur):
         pass 
