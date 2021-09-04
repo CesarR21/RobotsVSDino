@@ -1,8 +1,14 @@
 from dinosaur import Dinosaur
 
-class herd:
+class Herd:
     
     def __init__(self):
-        self.robot=[]
+        self.dinosaur=[]
             
-create_fleet(self): void
+def create_fleet(self): 
+    dino1 = Dinosaur('trex1')
+    self.dinosaur.append(dino1)
+    dino2 = Dinosaur('bigfoot2')
+    self.dinosaur.append(dino2)
+    dino3 = Dinosaur ('trex3')
+    self.dinosaur.append(dino3)
